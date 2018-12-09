@@ -7,4 +7,5 @@ toolbelt-cpp-projects
 - androidndkgdb.cmake: toolchain to use gdb
 - build.sh: code to compile with toolchain
 - CMakeList.txt: cmake template
-- deploy.sh: example to upload compiled files to android 
+- deploy.sh: example to upload compiled files to android
+- dirent.h from https://github.com/tronkko/dirent
